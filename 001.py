@@ -9,7 +9,9 @@ import xlsxwriter
 url = 'https://www.baidu.com/'
 login_name = 'qzko3'
 login_pwd = 'qzko123'
-
+'''
+woshishabi
+'''
 
 # time.sleep(5)
 def openChromeModel(driver,url):
